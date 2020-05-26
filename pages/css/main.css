@@ -1,0 +1,11 @@
+.all{
+	padding: 160px;
+}
+.bold{
+	font-weight: bold;
+}
+.pic{
+	width: 30%;
+	margin: auto;
+	display: block;
+}
